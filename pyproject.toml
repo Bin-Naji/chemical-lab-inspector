@@ -1,0 +1,9 @@
+[project]
+name = "chemical-lab-inspector"
+version = "0.1.0"
+description = "A small standard-library project for inspecting a laboratory directory."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
